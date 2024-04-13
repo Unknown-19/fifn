@@ -1,4 +1,4 @@
-# 
+# fifn
 ## Features
 * Save all function names to file
 ## Command-Line
