@@ -1,6 +1,6 @@
 # fifn
 ## Features
-* Save all function names to file
+* Save all class names to file
 ## Command-Line
 ```
 ./fifn -dump <dump.cs> -output <file name>
